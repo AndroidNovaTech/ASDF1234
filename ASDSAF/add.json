@@ -5,48 +5,47 @@
     {
       "id": "1",
       "name": "Life Quotes",
-      "file": "https://gist.githubusercontent.com/Rahul-kathiriya/ba5f2eec7e506acc03ee11c703f29b60/raw/68a13fb148c86586be7c66d9538f0b4f6d082db2/url.json"
-    },
+      "file":https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/lifeline.json"
     {
       "id": "2",
       "name": "Valentine's Day Special",
-      "file":"https://gist.githubusercontent.com/Rahul-kathiriya/c7d9fe0bc40cce7ba59d8d782f194d77/raw/11b09899a0ed58d1b183cbbb8d95105678f30ddd/vel.json"
+      "file"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/velt.json
     },
     {
       "id": "3",
       "name": "Love Quotes",
-      "file":"https://gist.githubusercontent.com/Rahul-kathiriya/fb425cb0dfe8ba0e02920bc1e91c85ec/raw/25e2bec1f63d62cac6a8782e53d7825ba6157306/love.json"
+      "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/love.json"
 
     },
     {
       "id": "4",
       "name": "Frandship Quotes",
-      "file":"https://gist.githubusercontent.com/Rahul-kathiriya/d5727346eb838a3b2660168e3509ea0e/raw/53b99bbe95f09f3cd826d37b4cf881ec350fdb0c/frinds.json"
+      "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/frinds.json"
 
     },
     {
       "id": "5",
       "name": "Happy Birthday Quotes",
-       "file":"https://gist.githubusercontent.com/Rahul-kathiriya/1b2c5b4421c0fb55f93b37f55c5a8514/raw/d29c9e8475abd0b87f2ed34f9cdafd5925f72ee5/birthday.json"
+       "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/birthday.json"
 
     },
     {
       "id": "6",
       "name": "Funny Quotes",
-       "file":"https://gist.githubusercontent.com/Rahul-kathiriya/c22926b30a5ab447050436409d257de4/raw/25f3ace968771ad940ffd72e4ba2681f79f40204/funny.json"
+       "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/funny.json"
 
     },
     {
       "id": "7",
       "name": "Motivation Quotes",
-      "file":"https://gist.githubusercontent.com/Rahul-kathiriya/14f39d29a36a1762bd66b0b43283dc33/raw/082feeca97da5025bda8f2b72219fc02e5e989c7/motivation.json"
+      "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/motivation.json"
 
     },
     {
       "id": "8",
       "name": "Mother's Day Quotes",
-      "file":"https://gist.githubusercontent.com/Rahul-kathiriya/0e69c07cda96748772cd0e92f20428d7/raw/7320ac90a6f151e335397b5aec7d9e705c10dd39/mothers.json
-"
+      "file":"https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/mothers.json"
+
 
     }
   ]
