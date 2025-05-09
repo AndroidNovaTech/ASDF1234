@@ -11,36 +11,7 @@
       "id": "2",
       "name": "Valentine's Day Special",
       "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/velt.json"
-    },
-    {
-      "id": "3",
-      "name": "Love Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/love.json"
-    },
-    {
-      "id": "4",
-      "name": "Frandship Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/frinds.json"
-    },
-    {
-      "id": "5",
-      "name": "Happy Birthday Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/birthday.json"
-    },
-    {
-      "id": "6",
-      "name": "Funny Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/funny.json"
-    },
-    {
-      "id": "7",
-      "name": "Motivation Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/motivation.json"
-    },
-    {
-      "id": "8",
-      "name": "Mother's Day Quotes",
-      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/main/ASDSAF/mothers.json"
     }
+   
   ]
 }
