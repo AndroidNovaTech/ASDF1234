@@ -1,9 +1,8 @@
 {
   "images": [
   
-   "https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/Img123/img%2013.jpg",
-    "https://github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/Img123/img%2014.jpg"
- 
+   "https://githubusercontent/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/Img123/img%2013.jpg",
+    "https://githubusercontent.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/Img123/img%2014.jpg"
 ],
   "success": 1,
   "message": "Categories Found",
@@ -16,8 +15,8 @@
   {
       "id": "2",
       "name": "Life ",
-      "file": "https://raw.github.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/life.json"
+      "file": "https://raw.githubusercontent.com/AndroidNovaTech/ASDF1234/blob/main/ASDSAF/life.json"
     }
-  
+
   ]
 }
